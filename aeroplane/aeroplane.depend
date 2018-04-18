@@ -1,0 +1,390 @@
+# depslib dependency file v1.0
+1524073736 source:d:\backup lenovo\cg\aeroplane\main.cpp
+	<windows.h>
+	<stdio.h>
+	<GL\glut.h>
+	"Primitives.h"
+	"Background1.h"
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winuser.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winerror.h
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetsd.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack4.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\poppack.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winver.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\dde.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\dlgs.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\prsht.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wincon.h
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\winbase.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\wingdi.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnls.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winnetwk.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winreg.h
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\winsvc.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cderr.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\ddeml.h
+
+1301111150 c:\program files (x86)\codeblocks\mingw\include\imm.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\lzexpand.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mmsystem.h
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\nb30.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\basetyps.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnterr.h
+
+1341006772 c:\program files (x86)\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\pshpack2.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winperf.h
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 c:\program files (x86)\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\program files (x86)\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winspool.h
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 c:\program files (x86)\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\mswsock.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 c:\program files (x86)\codeblocks\mingw\include\cguid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\olectlid.h
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 c:\program files (x86)\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1515445926 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1515445924 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+
+1515445924 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
+	<GL/gl.h>
+
+1523289944 source:d:\backup lenovo\cg\aeroplane\transformation.cpp
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	"Primitives.h"
+
+1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1524062586 d:\backup lenovo\cg\aeroplane\primitives.h
+
+1524067785 source:d:\backup lenovo\cg\aeroplane\primitives.cpp
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<stdio.h>
+	<GL\glut.h>
+	<iostream>
+	"Primitives.h"
+
+1523701667 source:d:\backup lenovo\cg\aeroplane\circle.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	"Primitives.h"
+
+1524054809 source:d:\backup lenovo\cg\aeroplane\background1.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Primitives.h"
+	"Background1.h"
+
+1523544678 d:\backup lenovo\cg\aeroplane\background1.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Primitives.h"
+
+1524057017 d:\backup lenovo\cg\aeroplane\background1.h
+
+1523606926 source:d:\backup lenovo\cg\aeroplane\scanfill.cpp
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<stdio.h>
+	<GL\glut.h>
+	<iostream>
+	"Primitives.h"
+
+1434917274 c:\program files (x86)\codeblocks\mingw\include\pthread.h
+	<stddef.h>
+	<errno.h>
+	<sys/types.h>
+	<process.h>
+	<limits.h>
+	<signal.h>
+	<sys/timeb.h>
+	"pthread_compat.h"
+	<pthread_unistd.h>
+
+1341006772 c:\program files (x86)\codeblocks\mingw\include\errno.h
+	<_mingw.h>
+
+1341006774 c:\program files (x86)\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1341006774 c:\program files (x86)\codeblocks\mingw\include\limits.h
+	<_mingw.h>
+
+1341006776 c:\program files (x86)\codeblocks\mingw\include\signal.h
+	<_mingw.h>
+
+1341006780 c:\program files (x86)\codeblocks\mingw\include\sys\timeb.h
+	<_mingw.h>
+	<sys/types.h>
+
+1434917274 c:\program files (x86)\codeblocks\mingw\include\pthread_compat.h
+	"pthread_time.h"
+
+1434917274 c:\program files (x86)\codeblocks\mingw\include\pthread_time.h
+	<sys/timeb.h>
+
+1434917274 c:\program files (x86)\codeblocks\mingw\include\pthread_unistd.h
+
+1524053139 source:d:\backup lenovo\cg\aeroplane\background2.c
+
+1524071596 source:d:\backup lenovo\cg\aeroplane\background2.cpp
+	<windows.h>
+	<stdio.h>
+	<GL\glut.h>
+	"Primitives.h"
+	"Background1.h"
+
+1524077021 source:d:\backup lenovo\aeroplane\background1.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	"Primitives.h"
+	"Background1.h"
+
+1524077040 d:\backup lenovo\aeroplane\primitives.h
+
+1524057017 d:\backup lenovo\aeroplane\background1.h
+
+1524076012 source:d:\backup lenovo\aeroplane\background2.cpp
+	<windows.h>
+	<stdio.h>
+	<GL\glut.h>
+	"Primitives.h"
+	"Background1.h"
+
+1523701667 source:d:\backup lenovo\aeroplane\circle.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	"Primitives.h"
+
+1524067785 source:d:\backup lenovo\aeroplane\primitives.cpp
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<stdio.h>
+	<GL\glut.h>
+	<iostream>
+	"Primitives.h"
+
+1523606926 source:d:\backup lenovo\aeroplane\scanfill.cpp
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<stdio.h>
+	<GL\glut.h>
+	<iostream>
+	"Primitives.h"
+
+1523289944 source:d:\backup lenovo\aeroplane\transformation.cpp
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	"Primitives.h"
+
+1524077428 source:d:\backup lenovo\aeroplane\main.cpp
+	<windows.h>
+	<stdio.h>
+	<GL\glut.h>
+	"Primitives.h"
+	"Background1.h"
+
